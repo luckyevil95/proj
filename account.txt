@@ -1,0 +1,2 @@
+login: moderator
+password: qwerty
